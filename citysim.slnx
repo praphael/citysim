@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="citysim/citysim.vcxproj" Id="6c03d645-2ed5-4d01-adf5-d5e7e7151144" />
+  <Project Path="libcitysim/libcitysim.vcxproj" Id="36432c4a-287f-4b37-89d1-ed1919444db7" />
+</Solution>

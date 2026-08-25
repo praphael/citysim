@@ -1,0 +1,2 @@
+#define LIBCITYSIM_API __declspec(dllexport)
+#define LIBCITYSIM_API __declspec(dllimport)
